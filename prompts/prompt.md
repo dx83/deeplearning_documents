@@ -26,3 +26,14 @@
 1. "C:\Workspace\deeplearning\deeplearning_documents\project2\kst\ppt_note_kst.md" 를 바탕으로 proj2_kst.pptx 작성
 2. ppt 템플릿은 "C:\Workspace\deeplearning\deeplearning_documents\project2\ppt_template_proj2.pptx"을 사용
 3. ppt는 3장만 만들면 된다.
+
+
+# 다시 새로 만든다. ppt 파일 작성
+1 "C:\Workspace\deeplearning\deeplearning_documents\project2\ppt_template_proj2.pptx" 를 템플릿으로 사용해서 ppt 파일 1장을 만든다.
+2. ppt에 들어갈 내용
+    목차 - 다른 부연 설명은 적지 말것
+        1 알약 외양 분류
+        2 얄약 각인 OCR
+        3 설명 기반 챗봇
+    프로젝트 목적
+        - 자리만 만들고 내용은 비워둬
